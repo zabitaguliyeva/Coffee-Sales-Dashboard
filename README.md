@@ -6,7 +6,7 @@ This Excel dashboard provides insights into coffee sales data, including:
 
 ![Dashboard Screenshot](assets/myDashboarScreenshot.png)
 
-- **Sales by Roast Type and Month**: A PivotTable shows coffee sales categorized by roast type (All Fertads) and month (January to December) for the years 2019 and 2020.
+- **Sales by Roast Type and Month**: A PivotTable shows coffee sales categorized by roast type (All Fertads) and month (January to December) for the years 2019 and 2022.
 - **Sales by Size and Loyalty Card**: A PivotTable shows coffee sales categorized by size ($0.20, $0.50, $1.00, $2.50) and whether a loyalty card was used (Yes or No).
 - **Total Sales Over Time**: A line chart shows the total sales per month from January 2019 to September 2022.
 - **Sales by Country**: A PivotTable shows the total sales for each country (United States, Trefland, United Kingdom).
@@ -15,7 +15,7 @@ This Excel dashboard provides insights into coffee sales data, including:
 
 ## Instructions
 
-1. Download the Excel workbook from [GitHub](#).
+1. Download the Excel workbook from [GitHub](https://github.com/zabitaguliyeva/Coffee-Sales-Dashboard/blob/main/MyDashboard.xlsx).
 2. Open the workbook in Excel.
 3. Use the slicers and PivotTables to explore the data.
 
