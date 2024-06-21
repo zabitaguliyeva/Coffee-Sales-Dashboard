@@ -6,11 +6,11 @@ This Excel dashboard provides insights into coffee sales data, including:
 
 ![Dashboard Screenshot](assets/myDashboarScreenshot.png)
 
-- **Sales by Roast Type and Month**: A PivotTable shows coffee sales categorized by roast type (All Fertads) and month (January to December) for the years 2019 and 2022.
-- **Sales by Size and Loyalty Card**: A PivotTable shows coffee sales categorized by size ($0.20, $0.50, $1.00, $2.50) and whether a loyalty card was used (Yes or No).
+- **Sales by Roast Type and Month**: A Timeline shows coffee sales categorized by roast type (All Fertads) and month (January to December) for the years 2019 and 2022.
+- **Sales by Size and Loyalty Card**: A Slicer shows coffee sales categorized by size ($0.20, $0.50, $1.00, $2.50) and whether a loyalty card was used (Yes or No).
 - **Total Sales Over Time**: A line chart shows the total sales per month from January 2019 to September 2022.
-- **Sales by Country**: A PivotTable shows the total sales for each country (United States, Trefland, United Kingdom).
-- **Top 5 Customers**: A PivotTable shows the top 5 customers by total sales amount.
+- **Sales by Country**: A Bar chart shows the total sales for each country (United States, Trefland, United Kingdom).
+- **Top 5 Customers**: A Bar chart shows the top 5 customers by total sales amount.
 - **Coffee Type Name**: A slicer allows you to filter data by coffee type name (Arabica, Liberica).
 
 ## Instructions
